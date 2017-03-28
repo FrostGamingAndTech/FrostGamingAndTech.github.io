@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+
+<html>
+<!-- Frost™ Player finder -->
+<head>
+
+	<title></title>
+
+	<link rel="stylesheet" type="text/css" href="Steam.css">
+</head>
+<body>
+<ul>
+<li><h2></h2><img src="images/.jpg" alt="Mountain View" style="width:304px;height:228px;"></li>
+</body>
+</html>
